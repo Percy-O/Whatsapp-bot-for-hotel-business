@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+google-generativeai
+python-dotenv
+python-multipart
+psycopg2-binary
+mysql-connector-python
+pymysql
+dateparser
+jinja2
