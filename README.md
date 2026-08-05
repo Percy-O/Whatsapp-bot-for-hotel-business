@@ -1,7 +1,3 @@
-# Whatsapp-bot-for-hotel-business
-An AI-powered WhatsApp bot designed for hotels to automate guest interactions. It handles room bookings, answers inquiries, shares pricing and availability, confirms reservations, provides check-in/check-out details, and offers 24/7 customer support—improving guest experience while reducing staff workload.
-
-
 # Hotel WhatsApp Bot
 
 An AI-powered WhatsApp chatbot built with **FastAPI** that automates hotel guest communication. The bot integrates with the **WhatsApp Cloud API**, **Google Gemini AI**, and the **Spaxce Hotel Management API** to provide 24/7 customer support, room booking, pricing, availability checks, booking management, and guest assistance.
